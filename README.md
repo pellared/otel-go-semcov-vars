@@ -1,0 +1,1 @@
+# otel-go-semcov-vars
